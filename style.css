@@ -5,7 +5,7 @@ body {
     font-family: Georgia,"Times New Roman",Times,serif;
     font-size: 18px;
     color: #333;
-    line-height=150%;
+    line-height: 150%;
   }
   
   header {
@@ -16,7 +16,7 @@ body {
       color: #eee;
       font-size: 28px;
       margin: 0;
-      margin-bottom: 20px
+      margin-bottom: 20px;
       padding: 20px 0px;
   }
 
@@ -32,7 +32,6 @@ a {
     color: #d21034
 }
 
-//what is this doing?
 .container {
     width: 1024px;
     margin: 0 auto;
